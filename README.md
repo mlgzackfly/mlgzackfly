@@ -7,10 +7,10 @@ Contact me
 ---
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-)](mailto:mlgzackfly@gmail.com) mlgzackfly@gmail.com  
-[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.mlgzackfly.com)  
+)](mailto:mlgzackfly@gmail.com)
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.mlgzackfly.com)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
-)](https://www.facebook.com/mlgzackfly)  
+)](https://www.facebook.com/mlgzackfly)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
 )
 ](https://t.me/mlgzackfly)  
