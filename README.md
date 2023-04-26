@@ -1,7 +1,9 @@
 About Me
 ---
 Hi, my name is Marco  
-I am currently studying Business Administration in Bussiness Computing at National Kaohsiung University of Science and Technology. Although I don't have any internship experience, I have been actively involved in various information communities and have gained valuable skills and knowledge through these experiences. I am a proactive team player and have excellent communication skills. I am excited about the opportunity to continue learning and growing as a developer, and I believe I would be a valuable asset to any team.
+I am currently studying Business Administration in Business Computing at National Kaohsiung University of Science and Technology. I have previously worked as a Flutter front-end engineer, where I honed my technical skills, including proficiency in programming languages such as Dart and knowledge of front-end development frameworks.
+
+In school projects, I have taken on important roles where I was responsible for programming, project management, and other tasks. These experiences have enabled me to work independently and collaboratively with others, and I am always eager to learn new things because I believe that learning leads to growth.
 
 Contact me
 ---
