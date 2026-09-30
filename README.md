@@ -29,7 +29,7 @@ Active CTF competitor, **Ministry of Education Red Team Assessor**, and **DEVCOR
 
 | Certification | Issuer | Year |
 |---|---|---|
-| OffSec Certified Professional (OSCP+) | OffSec | 2026 |
+| OffSec Certified Professional Plus (OSCP+) | OffSec | 2026 |
 | OffSec Certified Professional (OSCP) | OffSec | 2026 |
 | HTB Certified Penetration Testing Specialist (CPTS) | Hack The Box | 2026 |
 | HTB Certified Web Exploitation Specialist (CWES) | Hack The Box | 2026 |
